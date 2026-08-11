@@ -20,3 +20,12 @@ The project aims to transform the Android home experience into a dedicated and h
 Arcadia is currently under active development.
 
 The project is evolving through continuous UI/UX improvements, performance optimization and architectural improvements.
+
+This is also my first project. I wanted to do something different to please many Android users and also for my own gratification and approval.
+
+# About Me
+My dream is to create my own game, but without much money to raise, with my mom's independence with gourmet sweets, I decided to make this app to receive both a commission and, mainly, to invest in creating my game.  
+
+I’ve been working on the game for over a year (creation date of this README: August 10, 2026) completely on my own. So I want to start with small things and get useful feedback to improve.  
+
+I’m counting on your help to support me and create more apps that you want for free... I won’t put ads or paid plans. I’m poor and Brazilian, just playing at being... Robin Hood.

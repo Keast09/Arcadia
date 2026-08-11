@@ -30,6 +30,8 @@ The project is evolving through continuous UI/UX improvements, performance optim
 
 This is also my first project. I wanted to do something different to please many Android users and also for my own gratification and approval.
 
+At the moment, Google Play Protect doesn't recognize my app, so it will show a warning that it's not trusted. Just click on "Install anyway," or something similar, to install. Sorry 🙏
+
 ## Some images of different settings
 
 <img src="img/Arcadia-1.png" width="700">

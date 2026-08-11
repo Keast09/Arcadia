@@ -1,10 +1,6 @@
 # Arcadia
 Arcadia is a customizable Android game launcher designed to turn your device into a personalized gaming space.
 
-# Arcadia
-
-Arcadia is a customizable Android launcher focused on gaming, personalization, accessibility and performance.
-
 The project aims to transform the Android home experience into a dedicated and highly customizable gaming environment, while keeping the interface practical, readable and adaptable to different users.
 
 ## ✨ Features

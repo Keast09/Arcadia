@@ -29,3 +29,6 @@ My dream is to create my own game, but without much money to raise, with my mom'
 I’ve been working on the game for over a year (creation date of this README: August 10, 2026) completely on my own. So I want to start with small things and get useful feedback to improve.  
 
 I’m counting on your help to support me and create more apps that you want for free... I won’t put ads or paid plans. I’m poor and Brazilian, just playing at being... Robin Hood.
+
+# OBS
+I'm a pretty busy guy with the situation mentioned earlier, so, patience...

@@ -20,6 +20,11 @@ The project aims to transform the Android home experience into a dedicated and h
 - ♿ Accessibility-conscious UI
 - ⚡ Performance-oriented rendering and animations
 
+## Languages supported now. I’ll do more if requested.
+PORTUGUÊS BRASIL
+ESGLISH
+ESPAÑOL
+
 <img src="img/Arcadia-0.png" width="700">
 
 ## 🚧 Status
